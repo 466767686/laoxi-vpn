@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">老习VPN</string>
+    <string name="vpn_fgs_reason">为设备提供网络代理服务</string>
+</resources>
