@@ -1,4 +1,4 @@
-# 代理助手（ProxyApp）
+# 老习VPN/习近平VPN（ProxyApp）
 
 一个安卓网络代理客户端，内置你的 Clash 格式订阅（YAML）。
 
